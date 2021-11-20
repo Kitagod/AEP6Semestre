@@ -1,0 +1,5 @@
+O gerenciamento de versoes do app, se da por inicio
+de APP entrega 1, APP entrega 2, APP entrega 3, APP entrega FINAL.
+
+Link para o EXPO:
+https://expo.dev/@vinicius.klaus?tab=snacks
